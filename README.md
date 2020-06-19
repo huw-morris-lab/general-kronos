@@ -157,7 +157,7 @@ http://bioinformatics.mdc-berlin.de/intro2UnixandSGE/sun_grid_engine_for_beginne
 
 Basically, if you have many jobs that might take a long time and they are independent of each other, you can use this. E.g. if you want to run a big GWAS but on subsets of the genome (e.g. 50k SNPs at a time).
 
-First you need to set up the Sun Grid Engine path in your home directory, e.g. /data/home/mtan. This will make a .profile file.
+First you need to set up the 'son of grid engine' path in your home directory, e.g. /data/home/mtan. This will make a .profile file.
 
 ```
 cat ~/.profile
